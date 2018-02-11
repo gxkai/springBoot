@@ -12,6 +12,8 @@
   *  浏览器
      *  Google Chrome
      *  FireFox
+  *  请求工具
+     *  postman 
   *  虚拟机
      *  VMware
   *  远程工具
