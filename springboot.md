@@ -53,9 +53,7 @@
   *  apache ab
 
 11.项目整体框架
-  * 
-  *
-  *
+  *  ![整体框架](https://github.com/gxkai/springboot/blob/master/images/spring_5.png)
   
   
       
