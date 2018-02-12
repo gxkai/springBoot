@@ -22,6 +22,8 @@
   *  NOSQL 工具
      *  Robo
      *  RedisDesktop
+  *  数据库设计工具
+     *  foxtable  
   *  微信
      *  微信开发工具
   *  压力测试
