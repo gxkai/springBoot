@@ -41,8 +41,9 @@
   *  Github DeskTop
 
 3.  快捷构建
-  *  bootstrap
-     *  ibootstrap
+  *  前端框架
+     *  http://www.ibootstrap.cn/
+     *  http://www.bootcss.com/
   *  springboot
   *  jfinal
     
