@@ -42,8 +42,12 @@
 
 3.  快捷构建
   *  前端框架
-     *  http://www.ibootstrap.cn/
-     *  http://www.bootcss.com/
+     *  网页生成器
+          http://www.ibootstrap.cn/
+     *  在线表单生成器
+          http://www.bootcss.com/p/bootstrap-formbuilder/
+     *  官网
+          http://www.bootcss.com/
   *  springboot
   *  jfinal
     
