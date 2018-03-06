@@ -6,7 +6,7 @@
   *
   
 2.模版
-  * freemark
+  * freemarker
   *
   *
 3.日志管理

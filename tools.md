@@ -19,6 +19,7 @@
   *  远程工具
      *  FileZilla
      *  Xshell5
+     *  SecureCRT
   *  NOSQL 工具
      *  Robo
      *  RedisDesktop
